@@ -1,2 +1,0 @@
-# dkfb
-I am newbie
